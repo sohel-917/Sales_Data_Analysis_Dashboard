@@ -4,3 +4,5 @@ __pycache__/
 *.pyc
 .env
 data/train.csv
+processed_data/master_sales_data.csv
+processed_data/*.csv

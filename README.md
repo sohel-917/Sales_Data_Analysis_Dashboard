@@ -199,11 +199,57 @@ streamlit run dashboard/app.py
 
 ## 📷 Dashboard Preview
 
-(Add screenshots here after saving them in the images folder.)
+### 🏠 Dashboard Home
 
-Example:
+![Dashboard Home](images/dashboard_home.png)
 
-![Dashboard](images/dashboard.png)
+---
+
+### 📈 Daily Sales Trend
+
+![Daily Sales](images/daily_sales.png)
+
+---
+
+### 📅 Monthly Sales Analysis
+
+![Monthly Sales](images/monthly_sales.png)
+
+---
+
+### 🛍 Top Product Categories
+
+![Top Products](images/top_products.png)
+
+---
+
+### 🏬 Top Performing Stores
+
+![Top Stores](images/top_stores.png)
+
+---
+
+### 🥧 Product Category Distribution
+
+![Product Distribution](images/product_distribution.png)
+
+---
+
+### 🌍 Sales by City
+
+![City Sales](images/city_sales.png)
+
+---
+
+### 🎁 Promotion Analysis
+
+![Promotion Analysis](images/promotion_analysis.png)
+
+---
+
+### 🔥 Correlation Heatmap
+
+![Correlation Heatmap](images/correlation_heatmap.png)
 
 ---
 
