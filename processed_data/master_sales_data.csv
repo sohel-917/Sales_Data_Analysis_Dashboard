@@ -1,0 +1,4 @@
+master_data.to_csv(
+    "../processed_data/master_sales_data.csv",
+    index=False
+)
