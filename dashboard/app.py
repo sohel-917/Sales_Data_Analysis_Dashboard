@@ -15,7 +15,7 @@ def load_data():
         os.path.dirname(__file__),
         "..",
         "processed_data",
-        "master_sales_data.csv"
+        "master_sales_data_sample.csv"
     )
 
     print("Loading file from:", file_path)
